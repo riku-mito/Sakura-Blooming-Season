@@ -2,7 +2,7 @@
 
 Sakura Blooming Season is a p5.js interactive data visualisation of the impact of climate change on cherry blossom blooming season across Japan.
 
-p5.js sketch link: [https://editor.p5js.org/21017659/full/lkrsi-Npr](https://editor.p5js.org/21017659/full/lkrsi-Npr)
+p5.js sketch link: [https://editor.p5js.org/21017659/full/lkrsi-Npr]((https://editor.p5js.org/rikumito/full/lkrsi-Npr))
 
 ![datavis](https://git.arts.ac.uk/storage/user/381/files/62363abd-3dee-47cd-980c-669998565f6d)
 
